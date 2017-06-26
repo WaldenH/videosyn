@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>React Tutorials</title>
+    <!-- change this up! http://www.bootstrapcdn.com/bootswatch/ -->
+    <link href="//vjs.zencdn.net/5.4.6/video-js.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.6/cosmo/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+  </head>
+
+  <body>
+    <script src="https://www.gstatic.com/firebasejs/3.8.0/firebase.js"></script>
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyDsk6c1NnuzZdCREyF2kh-b_d4jSo97-VQ",
+        authDomain: "videosynclient.firebaseapp.com",
+        databaseURL: "https://videosynclient.firebaseio.com",
+        projectId: "videosynclient",
+        storageBucket: "videosynclient.appspot.com",
+        messagingSenderId: "712917821128"
+      };
+      firebase.initializeApp(config);
+    </script>
+    <div id="app"></div>
+    <script src="client.min.js"></script>
+  </body>
+</html>

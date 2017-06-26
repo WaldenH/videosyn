@@ -1,0 +1,34 @@
+./src/js/components/VideoBox.js
+Module not found: Error: Cannot resolve module 'you-get' in /Users/mantian/Desktop/v00-redux/src/js/components
+resolve module you-get in /Users/mantian/Desktop/v00-redux/src/js/components
+  looking for modules in /Users/mantian/Desktop/v00-redux/node_modules
+    /Users/mantian/Desktop/v00-redux/node_modules/you-get doesn't exist (module as directory)
+    resolve 'file' you-get in /Users/mantian/Desktop/v00-redux/node_modules
+      resolve file
+        /Users/mantian/Desktop/v00-redux/node_modules/you-get doesn't exist
+        /Users/mantian/Desktop/v00-redux/node_modules/you-get.webpack.js doesn't exist
+        /Users/mantian/Desktop/v00-redux/node_modules/you-get.web.js doesn't exist
+        /Users/mantian/Desktop/v00-redux/node_modules/you-get.js doesn't exist
+        /Users/mantian/Desktop/v00-redux/node_modules/you-get.json doesn't exist
+  looking for modules in /Users/mantian/node_modules
+    /Users/mantian/node_modules/you-get doesn't exist (module as directory)
+    resolve 'file' you-get in /Users/mantian/node_modules
+      resolve file
+        /Users/mantian/node_modules/you-get doesn't exist
+        /Users/mantian/node_modules/you-get.webpack.js doesn't exist
+        /Users/mantian/node_modules/you-get.web.js doesn't exist
+        /Users/mantian/node_modules/you-get.js doesn't exist
+        /Users/mantian/node_modules/you-get.json doesn't exist
+[/Users/mantian/Desktop/v00-redux/node_modules/you-get]
+[/Users/mantian/Desktop/v00-redux/node_modules/you-get]
+[/Users/mantian/Desktop/v00-redux/node_modules/you-get.webpack.js]
+[/Users/mantian/Desktop/v00-redux/node_modules/you-get.web.js]
+[/Users/mantian/Desktop/v00-redux/node_modules/you-get.js]
+[/Users/mantian/Desktop/v00-redux/node_modules/you-get.json]
+[/Users/mantian/node_modules/you-get]
+[/Users/mantian/node_modules/you-get]
+[/Users/mantian/node_modules/you-get.webpack.js]
+[/Users/mantian/node_modules/you-get.web.js]
+[/Users/mantian/node_modules/you-get.js]
+[/Users/mantian/node_modules/you-get.json]
+ @ ./src/js/components/VideoBox.js 26:14-32
